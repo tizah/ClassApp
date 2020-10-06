@@ -1,5 +1,5 @@
 # MERN Classroom
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0148ce67-56a3-4eb7-9348-d6fa9fe02df3/deploy-status)](https://app.netlify.com/sites/stoic-lamport-0e2fd2/deploys)
 A simple web-based classroom application that allows instructors to add courses with lessons, while students can enroll in these courses and track their progress. - developed using React, Node, Express and MongoDB.
 
 ![Class Room Application](https://iili.io/20YQtf.jpg "MERN Skeleton")
